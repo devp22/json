@@ -1,0 +1,22 @@
+{
+	"Common Conditions":[
+		{
+			"name": "Fever"
+		},
+		{
+			"name": "Fainting"
+		},
+		{
+			"name": "Nosebleeding"
+		},
+		{
+			"name": "Seizures"
+		},
+		{
+			"name": "Sore Throat"
+		},
+		{
+			"name": "High Blood Pressure"
+		}
+	]
+}
